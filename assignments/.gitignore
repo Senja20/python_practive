@@ -1,0 +1,6 @@
+.idea
+cmake-build-*
+*.pyc
+*.swp
+*.tmp
+solutions

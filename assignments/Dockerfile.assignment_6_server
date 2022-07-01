@@ -1,0 +1,22 @@
+FROM python:3.9-alpine
+
+WORKDIR /tmp
+
+RUN pip3 install \
+    faker \
+    flask \
+    flask-restful \
+    jsonschema \
+    names \
+    pytest \
+    pytest-repeat \
+    pytest-xdist \
+    requests
+
+WORKDIR /app
+
+COPY *.py ./
+
+ENV FLASK_APP=assignment_6_server.py
+
+ENTRYPOINT ["flask", "run", "--host=0.0.0.0"]
