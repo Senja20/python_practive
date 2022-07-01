@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ce3668c-cad4-411f-9520-e411a409c2f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../ExamClient/Servies/Get_all_items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExamClient/Servies/car_services.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExamClient/Servies/customer_services.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExamClient/Servies/rent_services.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExamClient/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExamServer/controllerFiles/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExamServer/controllerFiles/controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExamServer/controllerFiles/services.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExamServer/modelFiles/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExamServer/modelFiles/model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam_Backend/GrimstadBilDataBase/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam_backend2020/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assignment_1_1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../assignment_1_1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assignment_2_2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../assignment_2_2/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assignment_3_1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../assignment_3_1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assignment_4_1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../assignment_4_1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assignment_4_1/school.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../assignment_4_1/school.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assignment_5_1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../assignment_5_1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assignment_6_1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../assignment_6_1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assignment_7_1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../assignment_7_1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assignment_7_1/school.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/../../assignment_7_1/school.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assignment_8_1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../assignment_8_1/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1slLkyhuqJhFR8332866lAw5uc4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Exam-Server" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Exam-Server_ikt104" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ce3668c-cad4-411f-9520-e411a409c2f4" name="Default Changelist" comment="" />
+      <created>1621442376729</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621442376729</updated>
+      <workItem from="1621442377808" duration="208000" />
+      <workItem from="1621443026874" duration="119000" />
+      <workItem from="1621443330039" duration="20000" />
+      <workItem from="1621443779260" duration="600000" />
+      <workItem from="1621445022063" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>336</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Exam_Client$main.coverage" NAME="main Coverage Results" MODIFIED="1621445028377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exam_Server_ikt104$main.coverage" NAME="main Coverage Results" MODIFIED="1621443031900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
